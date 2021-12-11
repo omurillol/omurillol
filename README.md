@@ -6,7 +6,6 @@
 - 🤔 Ofereço ajuda em troca de experiência!
 - 📫 Entre em contato comigo no e-mail murillodev@protonmail.com
 - 😄 Ele/Dele - He/Him
-- ⚡ Anime geek
 
 <div align="center">
   <a href="https://github.com/omurillol">
